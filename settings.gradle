@@ -1,0 +1,5 @@
+include ':00-Bad-CPU'
+include ':01-CPU'
+include ':01-Memory'
+include ':00-Bad-Memory'
+include ':02-All'
